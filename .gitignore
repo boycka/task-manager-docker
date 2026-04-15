@@ -1,0 +1,28 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Java
+target/
+*.jar
+*.war
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Env
+.env
+
+# Docker
+docker-compose.override.yml
+
+# IDE
+.idea/
+.vscode/
+
+# System
+*.swp
